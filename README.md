@@ -11,8 +11,8 @@
 <div align="center">
   
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/naufaallhh)
-  [![Website Badge](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=Ko-fi&logoColor=white)](https://YOUR_WEBSITE.com)
-  [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+  [![Website Badge](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=Ko-fi&logoColor=white)](https://naufaallhh.my.id)
+  [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:nfl.faalih@gmail.com)
 
 </div>
 
