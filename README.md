@@ -1,52 +1,79 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Naufal%20Faalih%20Hakim&fontSize=70&fontAlignY=35&desc=Senior%20Fullstack%20Engineer%20%7C%20System%20Architect&descAlignY=55&descSize=20&animation=fadeIn&fontColor=ffffff" alt="Naufal Faalih Hakim Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=250&section=header&text=Naufal%20Faalih%20Hakim&fontSize=60&fontAlignY=40&desc=Senior%20Fullstack%20Engineer%20%7C%20System%20Architect&descAlignY=65&descSize=18&animation=fadeIn&fontColor=ffffff&rotate=-3&margin-b=20" alt="Premium Header" width="100%"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3572A5&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Applications;Crafting+Elegant+Solutions;Exploring+New+Technologies;Turning+Coffee+into+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFD700&background=00000000&center=true&vCenter=true&width=600&lines=Crafting+Scalable+Enterprise+Solutions;Architecting+High-Performance+Systems;Bridging+Backend+Logic+with+Frontend+Elegance;Exploring+Golang,+Rust,+and+Beyond..." alt="Typing SVG" />
   </a>
 </div>
 
-<div align="center">
-  
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/naufaallhh)
-  [![Website Badge](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=Ko-fi&logoColor=white)](https://naufaallhh.my.id)
-  [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:nfl.faalih@gmail.com)
+<br/>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/naufaallhh" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin-circled.png" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://naufaallhh.my.id" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/domain.png" alt="Website" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:nfl.faalih@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/gmail-new.png" alt="Email" width="40" height="40"/>
+  </a>
 </div>
 
-<br />
-
-### 👨‍💻 About Me
-
-I am a passionate **Senior Fullstack Engineer** with a strong focus on building high-performance web applications and scalable architectures. With a deep understanding of both frontend nuances and backend logic, I bridge the gap between design and technology.
-
-* 🔭 I’m currently working on **Enterprise Level SaaS Platforms**
-* 🌱 I’m currently learning **Advanced Microservices Patterns**
-* 👯 I’m looking to collaborate on **Open Source Projects**
-* 💬 Ask me about **React, Laravel, Golang, and System Design**
-
----
-
-### 🛠️ Tech Stack & Tools
+<br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,php,golang&perline=6" /><br>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,laravel&perline=6" /><br>
-  <img src="https://skillicons.dev/icons?i=mysql,git,docker&perline=6" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
----
+### ⚡ Executive Profile
 
-### 📊 GitHub Analytics
+I am a result-oriented **Senior Fullstack Engineer** focused on delivering robust, scalable, and secure web architectures. I specialize in untangling complex business requirements and translating them into clean, maintainable code across the entire stack.
+
+<img align="right" src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" width="180" height="auto" alt="coding GIF" />
+
+* 💎 Currently architecting **Enterprise SaaS Platforms**.
+* 🚀 Deepening expertise in **Advanced Microservices & Golang Concurrency**.
+* 🤝 Open for high-impact **Open Source collaborations**.
+* 💬 Let's discuss **System Design, React patterns, or complex Laravel backend strategies.**
+
+<br clear="all" />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zathzel&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180" alt="languages graph"  />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
----
+### 🚀 The Arsenal (Tech Stack)
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zathzel&label=Profile%20Views&color=blue&style=flat-square" alt="profile views" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=js,ts,php,golang&theme=dark" alt="Languages" /><br/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,laravel&theme=dark" alt="Frameworks" /><br/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mysql,redis,docker,kubernetes,git,aws&theme=dark" alt="Infrastructure" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+### 📈 Code Frequency & Focus
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zathzel&layout=compact&theme=transparent&hide_border=true&langs_count=8&title_color=FFD700&text_color=ffffff&icon_color=00ffff" height="200" alt="languages graph"  />
+</div>
+
+<br/><br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/70453865/145705748-cc963396-48f4-434f-87e9-a99f703f248b.gif" width="100%" alt="Footer City Animation">
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=Zathzel&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="profile views" />
 </div>
