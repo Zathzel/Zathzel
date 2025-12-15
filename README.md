@@ -39,15 +39,6 @@
         </ul>
       </p>
     </td>
-
-    <td width="50%" valign="top" style="border: none;">
-      <h3 align="center">📊 Live Metrics</h3>
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Zathzel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" width="100%" />
-        <br/><br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zathzel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" width="100%" />
-      </div>
-    </td>
   </tr>
 </table>
 
