@@ -39,6 +39,15 @@
         </ul>
       </p>
     </td>
+
+    <td width="50%" valign="top" style="border: none;">
+      <h3 align="center">📊 Live Metrics</h3>
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Zathzel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" width="100%" />
+        <br/><br/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zathzel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" width="100%" />
+      </div>
+    </td>
   </tr>
 </table>
 
@@ -74,15 +83,9 @@
 <br/>
 
 <div align="center">
-  <h3>📅 Contribution History (3D View)</h3>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zathzel&theme=tokyonight" width="100%" alt="Contribution Graph">
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>🐍 The Contribution Eater</h3>
-  <img src="https://github-readme-snake.vercel.app/api?username=Zathzel&theme=tokyonight&bg_color=0d1117&hide_border=true" width="100%" alt="snake"/>
+  <h3>⏰ Productivity & Habits</h3>
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zathzel&theme=tokyonight&utcOffset=7" width="100%" alt="Productive Time Graph">
 </div>
 
 <br/>
