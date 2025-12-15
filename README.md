@@ -42,25 +42,7 @@ I am a passionate **Senior Fullstack Engineer** with a strong focus on building 
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zathzel&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="stats graph"  />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zathzel&layout=compact&theme=radical&hide_border=true&langs_count=6" height="180" alt="languages graph"  />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zathzel&theme=radical&hide_border=true" alt="streak graph" />
-</div>
-
----
-
-### 🏆 Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Zathzel&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="100%" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zathzel&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180" alt="languages graph"  />
 </div>
 
 ---
